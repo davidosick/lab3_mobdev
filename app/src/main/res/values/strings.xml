@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="logo_text">Тудушка</string>
+    <string name="needToDo_text">Мне надо сделать…</string>
+    <string name="addButton_text">Добавить</string>
+    <string name="maybe">Может быть вы хотите что-то сделать?</string>
+    <string name="clearButton_text">Очистить весь список задач</string>
+    <string name="afterClearAllTasks">Сделал дело - гуляй смело!</string>
+</resources>
